@@ -1,0 +1,17 @@
+// Robert McKinley
+// CIS 1202
+// 3/22/2026
+
+#include<iostream>
+
+using namespace std;
+
+int main() 
+{
+
+	cout << "Hello, World!" << endl;
+
+
+	system("pause");
+	return 0;
+}
